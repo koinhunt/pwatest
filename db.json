@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Southern screamer","category":"Aquamarine"},
+{"id":2,"name":"Brown pelican","category":"Fuscia"},
+{"id":3,"name":"Bunting, crested","category":"Indigo"},
+{"id":4,"name":"Leopard, indian","category":"Crimson"},
+{"id":5,"name":"African lynx","category":"Red"},
+{"id":6,"name":"Waterbuck, defassa","category":"Yellow"},
+{"id":7,"name":"Whale, killer","category":"Purple"},
+{"id":8,"name":"Grizzly bear","category":"Blue"},
+{"id":9,"name":"Bustard, stanley","category":"Purple"},
+{"id":10,"name":"Badger, european","category":"Indigo"},
+{"id":11,"name":"Knob-nosed goose","category":"Indigo"},
+{"id":12,"name":"Black swan","category":"Green"},
+{"id":13,"name":"Fox, bat-eared","category":"Turquoise"},
+{"id":14,"name":"Wattled crane","category":"Blue"},
+{"id":15,"name":"Steenbok","category":"Puce"},
+{"id":16,"name":"Oriental short-clawed otter","category":"Mauv"},
+{"id":17,"name":"Brazilian tapir","category":"Orange"},
+{"id":18,"name":"Owl, snowy","category":"Purple"},
+{"id":19,"name":"Groundhog","category":"Khaki"},
+{"id":20,"name":"Black-throated cardinal","category":"Mauv"}
+]
+}
