@@ -2,7 +2,7 @@
 $(document).ready(function(){
 
 	// membuat dan memamsukkan variabel url untuk API
-	var _url = "http://my-json-server.typicode.com/koinhunt/pwatest/products"
+	var _url = "https://my-json-server.typicode.com/koinhunt/pwatest/products"
 
 	// membuat variabel tambahan untuk menampilkan data
 	var dataResults = ''
